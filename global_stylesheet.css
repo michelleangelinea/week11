@@ -1,0 +1,26 @@
+.header{
+	padding: 60px;
+	text-align: center;
+	background: #C8D9F0;
+	color: #1E3F66;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+body{
+	background: #DAF0F7;
+}
+
+hr.rounded{
+	border-top: 8px solid;
+	border-radius: 5px;
+	color: #1E3F66;
+}
+
+.title{
+	font-family: "Times New Roman", Times, serif;
+	color: #1E3F66;
+	font-weight: bold;
+}
+
